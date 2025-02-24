@@ -28,29 +28,29 @@ My Service
 
 
 
-First name
-Last name
-Title
-E-mail (100% verified)
-LinkedIn URL
-Company name
-Business website
-Business Address (Street Address, City, State, Zip)
-Phone number (if available)
-Company LinkedIn URL
-Employee size and much more
+First name,
+Last name,
+Title,
+E-mail (100% verified),
+LinkedIn URL,
+Company name,
+Business website,
+Business Address (Street Address, City, State, Zip),
+Phone number (if available),
+Company LinkedIn URL,
+Employee size and much more,
 
 
 Why me
 
 
 
-Good communication
-support 7/24 hours
-satisfaction 100%
-100% valid emails
-Short-time delivery.
-Unlimited Revision
+Good communication,
+support 7/24 hours,
+satisfaction 100%,
+100% valid emails,
+Short-time delivery,
+Unlimited Revision,
  
 
 Note :Have a question? Contact me via inbox message. I will be very happy to help you immediately.
