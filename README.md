@@ -7,26 +7,14 @@ Boost your cleaning business with targeted lead generation! Specializing in acqu
 
 
 If you want to create an email list, research contacts, LinkedIn marketing support.
-
 I have 5 years of experience in b2b lead generation, LinkedIn lead generation, list building and web research projects.
-
-
-
 I use LinkedIn Sales Navigator, professional networking sites and popular online directories like Yelp, Yellow Page, etc. to compile a list of your targeted b2b prospects.
-
-
-
 I will check the validity of e-mail with SMTP Paid Server to confirm bounced back / delivery status and provide only a 100% valid lead list.
-
-
-
 I will provide your output in an Excel spreadsheet / CSV format with the following data fields.
 
 
 
 My Service
-
-
 
 First name,
 Last name,
@@ -40,10 +28,7 @@ Phone number (if available),
 Company LinkedIn URL,
 Employee size and much more,
 
-
 Why me
-
-
 
 Good communication,
 support 7/24 hours,
